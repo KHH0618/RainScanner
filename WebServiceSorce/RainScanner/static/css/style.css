@@ -1,0 +1,7 @@
+.custom-table-bg {
+    background-color: #d0f0fd; /* 밝은 파란색 테이블 배경 */
+}
+
+.custom-table-bg td, .custom-table-bg th {
+    background-color: #d0f0fd; /* 테이블 셀의 배경 */
+}
