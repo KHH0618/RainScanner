@@ -2,14 +2,12 @@
 > 개별 프로젝트
 
 
-- 프로젝트명 : 체중 변화 예측과 식단추천 (인원 1명)
-- 기간 : 2015.01.13~2025.01.26 (2주)
+- 프로젝트명 : RainScanner (인원 1명)
+- 기간 : 2025.01.13~2025.01.26 (2주)
 - 언어 : Python 3.10.9
-- python library:
-- Python
-- micro Framework : FastAPI
-- 프로젝트 소개 : 2~ 3줄 간단한 소개
+- 프로젝트 소개 : 강수여부를 예측하는 AI모델 및 웹구현
 
+- python library
 <div align=center> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/tensorflow--macos-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
