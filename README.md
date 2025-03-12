@@ -64,13 +64,13 @@
 
 ## 3. 데이터 전처리
 
-![Image](https://github.com/user-attachments/assets/ac7c2707-01a1-4281-a7ae-d3c2f31dee38)
-
 ![Image](https://github.com/user-attachments/assets/cf385243-000f-4455-b1a4-fd85f71a88de)
 
 ![Image](https://github.com/user-attachments/assets/58984d96-0634-4007-9ff5-406999b28143)
 
 ![Image](https://github.com/user-attachments/assets/d0a6ea36-4fcb-41c1-aaf6-84d65db33e0d)
+
+![Image](https://github.com/user-attachments/assets/ac7c2707-01a1-4281-a7ae-d3c2f31dee38)
 
 ## 4. AI 성능 지표
 
